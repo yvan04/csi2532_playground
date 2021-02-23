@@ -17,6 +17,7 @@ Les professeurs peuvent enseigner le même cours sur plusieurs semestres et seul
 ![ER #1](assets/er_01.png)
 
 Chaque professeur doit enseigner un cours.
+
 ![ER #2](assets/er_02.png)
 
 Chaque professeur enseigne exactement un cours (ni plus, ni moins).
