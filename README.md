@@ -34,7 +34,7 @@ Supposons maintenant que certains cours puissent être enseignés conjointement 
 
 Diagramme de relation
 Avec les diagrammes ER ci-dessus, modèlez un diagramme relationnel pour les systèmes.
-![](assets/dr1.png)
-![](assets/dr2.png)
+![](assets/dr1.PNG)
+![](assets/dr2.PNG)
 Schèma de relation
 Avec les diagrammes relationnel ci-dessus, écrivez un schéma SQL relationnel pour les systèmes.
